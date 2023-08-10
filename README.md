@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript React Nodejs**
+<h4> 🌱 I’m currently learning **Javascript React Nodejs**
 
 - 💬 Ask me about **C++ C**
 
 - 📫 How to reach me **akkiva47@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny** </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
